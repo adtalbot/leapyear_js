@@ -13,7 +13,7 @@ Bootstrap
 ---------
 ## Site home screenshot
 
-![Screenshot of site] (https://raw.githubusercontent.com/adtalbot/leap_year_js/master/img/screenshot.png)
+![Screenshot of site] (https://raw.githubusercontent.com/adtalbot/leapyear_js/master/img/screenshot.png)
 
 
 <h2>Copyright</h2>
