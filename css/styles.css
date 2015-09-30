@@ -1,0 +1,52 @@
+#result {
+  display: none;
+}
+.navbar {
+  background-color: #fff;
+}
+
+body {
+  background-color: #29c111;
+  font-family: 'Fredoka One', cursive;
+  color: #424242;
+}
+
+h1 {
+  text-align: center;
+  font-size: 55px;
+}
+
+.form-group  {
+  margin: 50px;
+  text-align: center;
+}
+
+.btn {
+  margin: 15px;
+}
+
+.label {
+  font-size: 20px;
+  color: #424242;
+}
+
+.form-control {
+  margin: 15px;
+}
+
+.logo {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+#result {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+
+}
